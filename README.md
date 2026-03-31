@@ -12,7 +12,7 @@ The dataset was sourced from Kaggle:
 
 https://www.kaggle.com/datasets/srinivasanusuri/optimization-of-machine-downtime
 
-The dataset contains information about machine operational conditions and downtime events. :contentReference[oaicite:0]{index=0}
+The dataset contains information about machine operational conditions and downtime events. 
 
 ---
 
