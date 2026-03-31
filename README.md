@@ -67,6 +67,11 @@ This analysis can help:
 
 ---
 
+## Dashboard Preview
+<img width="1314" height="737" alt="Machine_Downtime_Dashboard screenshots" src="https://github.com/user-attachments/assets/d66dce38-55df-4b50-9a97-5c96d04643d3" />
+
+---
+
 ## Project Structure
 
 │
